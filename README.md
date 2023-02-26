@@ -8,4 +8,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RuanAyram.RuanAyram)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuanAyram" alt="RuanAyram" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RuanAyram&theme=nord" alt="RuanAyram" /></a> </p>
